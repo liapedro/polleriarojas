@@ -18,7 +18,7 @@
 		</nav>
 		<section>
 			<div class="mediano text-center animated fadeInDown">
-				<h1 class="pacifico grande naranja">Contacto</h1>
+				<h1 class="pacifico grande naranja">Contácto</h1>
 				<p>Niños Heroes #39, Colinas del Rio. La Cruz, Elota, Sinaloa.</p>
 				<p>Escribenos a <a href="mailto:pedro@rojascorona.online">pedro@rojascorona.online</a></p>
 				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d911.7890883281276!2d-106.88845881186347!3d23.919516899026892!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86a26042a5355899%3A0x86b4786ac759cd9a!2sLuis+Donaldo+Colosio+Murrieta+SN-C+PURIFICADORA%2C+Centro%2C+82700+La+Cruz%2C+Sin.!5e0!3m2!1ses!2smx!4v1479178893927" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
