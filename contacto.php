@@ -4,6 +4,7 @@
 		<meta charset="utf-8">
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 		<link rel="stylesheet" href="css/main.css">
+		<link rel="stylesheet" href="css/animate.css">
 		<link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Fugaz+One" rel="stylesheet">
 		<title>Pollería "Rojas"</title>
@@ -16,7 +17,7 @@
 			</ul>
 		</nav>
 		<section>
-			<div class="mediano text-center">
+			<div class="mediano text-center animated fadeInDown">
 				<h1 class="pacifico grande naranja">Contacto</h1>
 				<p>Niños Heroes #39, Colinas del Rio. La Cruz, Elota, Sinaloa.</p>
 				<p>Escribenos a <a href="mailto:pedro@rojascorona.online">pedro@rojascorona.online</a></p>
