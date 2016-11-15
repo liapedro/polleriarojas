@@ -4,6 +4,7 @@
 		<meta charset="utf-8">
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 		<link rel="stylesheet" href="css/main.css">
+		<link rel="stylesheet" href="css/animate.css">
 		<link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Fugaz+One" rel="stylesheet">
 		<title>Pollería "Rojas"</title>
@@ -20,14 +21,14 @@
 				<h1 class="pacifico grande naranja">Productos</h1>
 				<p>Puedes encontrarlos en nuestra tienda a un super precio.</p>
 				<div class="col-md-3 col-sm-4 inline-block">
-					<article>
+					<article class="animated fadeInDown">
 						<h2 class="pacifico">Pierna</h2>
 						<img src="imgs/logopolleria.png" class="col-md-4 col-xs-4 quitar-float">
 						<p>
 							<strong>$$$</strong>
 						</p>
 					</article>
-					<article>
+					<article class="animated fadeInDown">
 						<h2 class="pacifico">Pierna</h2>
 						<img src="imgs/logopolleria.png" class="col-md-5 col-xs-4 quitar-float">
 						<p>
@@ -37,7 +38,7 @@
 					
 				</div>
 				<div class="col-md-6 col-sm-4 inline-block vete-arriba">
-					<article>
+					<article class="animated fadeInDown">
 						<h2 class="pacifico">Pechuga</h2>
 						<img src="imgs/logopolleria.png" class="col-md-5 col-xs-4  quitar-float">
 						<p>
@@ -46,14 +47,14 @@
 					</article>
 				</div>
 				<div class="col-md-3 col-sm-4 inline-block">
-					<article>
+					<article class="animated fadeInDown">
 						<h2 class="pacifico">Pierna</h2>
 						<img src="imgs/logopolleria.png" class="col-md-5 col-xs-4  quitar-float">
 						<p>
 							<strong>$$$</strong>
 						</p>
 					</article>
-					<article>
+					<article class="animated fadeInDown">
 						<h2 class="pacifico">Pierna</h2>
 						<img src="imgs/logopolleria.png" class="col-md-5 col-xs-4  quitar-float">
 						<p>
